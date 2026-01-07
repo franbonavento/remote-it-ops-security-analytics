@@ -1,0 +1,9 @@
+user_id,full_name,role,department,country,employment_type,account_status,mfa_enabled,created_at
+1,Ana Torres,admin,IT,Argentina,full-time,active,yes,2023-01-15
+2,Lucas Meyer,user,Product,Chile,full-time,active,yes,2023-02-03
+3,María López,user,Sales,Mexico,contractor,active,no,2023-03-10
+4,John Smith,user,Engineering,USA,full-time,active,yes,2023-01-28
+5,Sofía Pérez,support,IT,Argentina,full-time,active,yes,2023-02-20
+6,Carlos Gómez,user,Operations,Colombia,full-time,suspended,no,2023-01-05
+7,Laura Rossi,user,Marketing,Spain,contractor,active,no,2023-04-12
+8,Diego Fernández,user,Finance,Argentina,full-time,active,yes,2023-03-01
