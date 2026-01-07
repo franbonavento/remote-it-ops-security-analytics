@@ -1,1 +1,10 @@
+ticket_id,user_id,device_id,issue_type,priority,status,opened_at,closed_at
+T001,3,D003,login_issue,high,closed,2024-04-30,2024-05-01
+T002,6,D006,device_slow,medium,closed,2024-04-15,2024-04-18
+T003,7,D007,antivirus_disabled,high,closed,2024-04-10,2024-04-12
+T004,2,D002,vpn_issue,medium,closed,2024-05-10,2024-05-11
+T005,1,D001,access_request,low,closed,2024-05-05,2024-05-05
+T006,3,D003,mfa_problem,high,open,2024-05-20,
+T007,8,D008,email_issue,low,closed,2024-05-18,2024-05-18
+T008,6,D006,os_update_failed,high,open,2024-05-22,
 
