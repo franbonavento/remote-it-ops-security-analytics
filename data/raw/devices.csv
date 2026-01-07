@@ -1,0 +1,9 @@
+device_id,user_id,device_type,os,os_version,patch_status,antivirus_enabled,last_checkin
+D001,1,laptop,Windows,11,up_to_date,yes,2024-05-20
+D002,2,laptop,macOS,13.4,up_to_date,yes,2024-05-19
+D003,3,laptop,Windows,10,outdated,no,2024-04-30
+D004,4,laptop,macOS,14.1,up_to_date,yes,2024-05-21
+D005,5,laptop,Windows,11,up_to_date,yes,2024-05-20
+D006,6,desktop,Windows,10,outdated,no,2024-04-15
+D007,7,laptop,macOS,12.6,outdated,no,2024-04-10
+D008,8,laptop,Windows,11,up_to_date,yes,2024-05-22
