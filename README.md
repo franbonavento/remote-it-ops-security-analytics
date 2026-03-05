@@ -103,3 +103,27 @@ This approach reflects **SOC 1 / entry-level security analysis thinking**, witho
 This project was created to demonstrate hands-on experience in IT Support and Operations, using data analysis to improve processes and build a foundation for future security-focused roles.
 
 > **Note on Professional Evolution:** This project serves as a bridge between technical IT support and data-driven operational intelligence. The ability to monitor asset health and system uptime is the foundation for my transition toward **Industrial Data Analysis** and **IoT Infrastructure**, where reliability and preventive maintenance are critical.
+
+---
+
+## 🧠 Data-Driven Insights & Recommendations (Phase 1)
+
+### 🚨 The Problem (Pain Point)
+The organization operates 100% remotely without a centralized view of its IT infrastructure. This lack of monitoring leads to **productivity loss** due to hardware failures and **unmanaged security risks** in remote endpoints.
+
+### 🎯 Objective
+To transform raw ticketing and device data into **Operational Intelligence** to minimize downtime and mitigate security vulnerabilities through data-driven decisions.
+
+### 📊 Key Findings (The Pyramid Approach)
+Based on the SQL analysis performed, the following patterns were identified:
+- **Efficiency:** The Mean Time to Resolution (MTTR) is **28.0 hours**, establishing a baseline for internal Service Level Agreements (SLA).
+- **Infrastructure:** **Laptops account for 75% of incidents**, confirming that mobile hardware is the primary point of failure for remote operations.
+- **Risk:** **37.5% of the fleet** is currently running outdated patches, representing a critical security gap.
+
+### 💡 Strategic Recommendations
+> **"Immediate implementation of an automated Patch Management policy and the establishment of a contingency laptop stock is highly recommended."**
+
+**Why?**
+1. **Security:** Reducing the percentage of outdated devices is vital to protect the SaaS/Fintech infrastructure from potential breaches.
+2. **Business Continuity:** Since laptops are the most failure-prone asset, having "ready-to-go" replacements will drastically reduce recovery time for remote employees.
+3. **Operations:** A target SLA of 24-30 hours should be formalized, as it aligns with current performance and sets clear expectations for the business.
