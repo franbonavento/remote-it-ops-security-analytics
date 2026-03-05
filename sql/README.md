@@ -57,14 +57,13 @@ The project works with simulated but realistic datasets:
 
 ---
 
-## 🧮 Data & Analytics
-- Data is cleaned and analyzed using **SQL**
-- Metrics focus on:
-  - Incident frequency
-  - Resolution time
-  - User impact
-  - Operational bottlenecks
-- Simple visual summaries are used when helpful
+## 🧮 Data & Analytics (Phase 1 Results)
+Data was processed using **SQLite** to answer critical business questions. Key findings include:
+
+- **Operational Efficiency (MTTR):** The Mean Time to Resolution is **28.0 hours**. This establishes a baseline for internal Service Level Agreements (SLA).
+- **Asset Reliability:** **Laptops** account for **75% of total incidents** (6 out of 8). This confirms that mobile hardware is the primary focus for maintenance in a remote environment.
+- **Security Posture:** **37.5% of the fleet** (3 out of 8 devices) was identified with **outdated patch status**. This highlights a critical need for automated patch management.
+- **Operational Load:** The **Sales and Operations** departments generate the highest volume of tickets, indicating areas where proactive support or training could yield the most impact.
 
 ---
 
@@ -92,8 +91,8 @@ This approach reflects **SOC 1 / entry-level security analysis thinking**, witho
 ---
 
 ## 🚀 Project Status
-- Phase 1: SaaS IT Support & Operations analytics *(in progress)*
-- Phase 2: Fintech-oriented security event analysis *(planned)*
+- ✅ **Phase 1: SaaS IT Support & Operations Analytics** (Completed - SQL Analysis & Insights generated)
+- 🔄 **Phase 2: Fintech-oriented security event analysis** (In Progress - Transitioning to SOC 1 thinking)
 
 ---
 
@@ -102,4 +101,6 @@ This approach reflects **SOC 1 / entry-level security analysis thinking**, witho
 
 ## 👤 About
 This project was created to demonstrate hands-on experience in IT Support and Operations, using data analysis to improve processes and build a foundation for future security-focused roles.
+
+> **Note on Professional Evolution:** This project serves as a bridge between technical IT support and data-driven operational intelligence. The ability to monitor asset health and system uptime is the foundation for my transition toward **Industrial Data Analysis** and **IoT Infrastructure**, where reliability and preventive maintenance are critical.
 
