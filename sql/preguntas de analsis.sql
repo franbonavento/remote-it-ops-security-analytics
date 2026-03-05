@@ -48,12 +48,11 @@ LIMIT 5;
 --6. Riesgo de Seguridad (Equipos Desprotegidos)
 
 SELECT 
-    device_id, 
-    model, 
+    device_id,  
     os, 
     patch_status
 FROM devices
-WHERE antivirus_enabled = 0 
+WHERE antivirus_enabled = 'no' 
 OR patch_status = 'Outdated';
 
 --**** Con estas 6 consultas, pasas de tener una tabla de Excel a tener un Sistema de Inteligencia Operativa.
