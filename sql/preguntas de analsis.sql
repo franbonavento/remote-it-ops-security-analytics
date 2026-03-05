@@ -55,11 +55,11 @@ FROM devices
 WHERE antivirus_enabled = 'no' 
 OR patch_status = 'Outdated';
 
---**** Con estas 6 consultas, pasas de tener una tabla de Excel a tener un Sistema de Inteligencia Operativa.
+--**** Con estas 6 consultas --> un Sistema de Inteligencia Operativa: 
 
 --Sabes qué se rompe.
 
---abes quién tiene más problemas.
+--Sabes quién tiene más problemas.
 
 --Sabes cuánto tardas en arreglarlo.
 
